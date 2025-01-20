@@ -1,7 +1,7 @@
 # Desarrollo de Aplicaciones Web
 ## Taller Git y Github
 ### Universidad de La Sabana
-#### 2024 - II
+#### 2025 - I
 
 ---------------------------
 
